@@ -46,8 +46,6 @@
   <img src="https://raw.githubusercontent.com/Zug22/Zug22/output/github-contribution-grid-snake.svg" />
 </p>
 
-> Para ativar a cobrinha, crie o arquivo `.github/workflows/snake.yml` no repositório com a action [Platane/snk](https://github.com/Platane/snk).
-
 ---
 
 ## 📬 Contato
