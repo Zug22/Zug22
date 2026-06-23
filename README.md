@@ -31,7 +31,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zug22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zug22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Zug22&color=blue&style=flat" alt="Visitantes" />
 </p>
