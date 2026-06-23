@@ -1,4 +1,3 @@
-cat > .github/workflows/snake.yml << 'EOF'
 name: Generate Snake
 
 on:
