@@ -53,10 +53,10 @@
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/pietro-branco-rossi-273974335/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:pietro1.com@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
