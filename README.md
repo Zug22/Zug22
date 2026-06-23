@@ -8,20 +8,23 @@
 
 ## 🧠 Sobre mim
 
-- 🔧 Desenvolvedor back end focado em construir sistemas robustos e seguros
-- 🔒 Apaixonado por **cyber segurança**, **redes** e **banco de dados**
-- 📍 Baseado em Brasília, Brasil
-- 🌱 Sempre aprendendo algo novo na área de segurança e infraestrutura
+-   Desenvolvedor back end focado em construir sistemas robustos e seguros
+-   Apaixonado por **cyber segurança**, **redes** e **banco de dados**
+-   Sempre aprendendo algo novo na área de segurança e infraestrutura
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
